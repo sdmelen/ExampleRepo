@@ -1,0 +1,7 @@
+version: 2
+updates:
+  - package-ecosystem: "npm" # Change this based on your project type, like 'maven' for Java or 'npm' for JavaScript
+    directory: "/" # Path to the directory containing your package manifests
+    schedule:
+      interval: "weekly" # How often to check for updates, such as 'daily', 'weekly', or 'monthly'
+    open-pull-requests-limit: 10 # Optional: limit the number of open pull requests
