@@ -7,4 +7,4 @@ For more information, please contact us at info@example.com.New features added.
 
 GitHub Desktop is cool!
 
-Embrace Jira!
+Embrace Jira!!!
